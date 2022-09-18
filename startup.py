@@ -1,2 +1,2 @@
 import os
-os.system()
+os.system("go run .\src\silvercoin_node.go")
