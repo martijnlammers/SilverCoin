@@ -6,17 +6,22 @@
 ## SilverCoin
 #### SilverCoin is a Golang project developed by Martijn Lammers with humble educational purposes. This project is not a cryptocurrency ready to be utilized in a production enviornment, it is merely a programming excersise trying to emulates the logic and functionalities of a real one. 
 
-## Features
-- Starts up a simple three node network.
+## Features (Unfinished)
+- Starts up a three node network.
 - All 3 nodes contain a distributed ledger.
 - The distributed ledgers contain a [blockchain](https://en.wikipedia.org/wiki/Blockchain) datastructure.
 - Implementation [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) and [proof-of-concept](https://en.wikipedia.org/wiki/Proof_of_concept).
 
 ## Technologies
-- [Python](https://www.python.org/)
-- [Golang](https://go.dev/)
-- [Git](https://git-scm.com/downloads)
-- [Windows 11](https://www.microsoft.com/nl-nl/software-download/windows11)
+- [Python 3.9.13](https://www.python.org/)
+- [Go 1.19 windows/amd64](https://go.dev/)
+- [Git 2.36.1.windows.1](https://git-scm.com/downloads)
+- [Docker](https://www.docker.com/)
+
+## How to use SilverCoin (Unfinished)
+```PowerShell
+python3 startup.py
+```
 
 [1]: https://en.wikipedia.org/wiki/Cryptocurrency
 [2]: https://en.wikipedia.org/wiki/Distributed_ledger
