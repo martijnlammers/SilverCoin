@@ -16,7 +16,7 @@
 - [Python 3.9.13](https://www.python.org/)
 - [Go 1.19 windows/amd64](https://go.dev/)
 - [Git 2.36.1.windows.1](https://git-scm.com/downloads)
-- [Docker](https://www.docker.com/)
+- [Docker 20.10.17](https://www.docker.com/)
 
 ## How to use SilverCoin (Unfinished)
 ```PowerShell
