@@ -11,6 +11,7 @@
 - All 3 nodes contain a distributed ledger.
 - The distributed ledgers contain a [blockchain](https://en.wikipedia.org/wiki/Blockchain) datastructure.
 - Implementation [proof-of-work](https://en.wikipedia.org/wiki/Proof_of_work) and [proof-of-concept](https://en.wikipedia.org/wiki/Proof_of_concept).
+- API transactions.
 
 ## Technologies
 - [Python 3.9.13](https://www.python.org/)

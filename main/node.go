@@ -3,6 +3,7 @@ package main
 import (
 	"flag"
 	"fmt"
+	sc "main/modules"
 	"os"
 )
 
@@ -14,5 +15,6 @@ func main() {
 		return
 	}
 	fmt.Println("file exists")
-
+	test := []byte("hello")
+	fmt.Println(sc.Hash(test))
 }
