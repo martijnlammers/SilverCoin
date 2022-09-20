@@ -21,7 +21,8 @@
 
 ## How to use SilverCoin (Unfinished)
 ```PowerShell
-python3 startup.py
+cd .\main\
+go run .
 ```
 
 [1]: https://en.wikipedia.org/wiki/Cryptocurrency
