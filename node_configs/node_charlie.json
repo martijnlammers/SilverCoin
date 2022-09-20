@@ -1,0 +1,7 @@
+{
+    "node_config":{
+        "type":"joining",
+        "addres_host":"127.0.0.1:8002",
+        "address_join":"127.0.0.1:8001"
+    }
+}
