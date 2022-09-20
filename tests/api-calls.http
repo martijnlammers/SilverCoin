@@ -1,0 +1,18 @@
+
+@host = http://127.0.0.1:8000
+
+# ###
+# post {{host}}/api/account/register 
+# Content-Type: application/json
+
+# {
+#     "message":"hello world"
+# }
+###
+get {{host}}/api
+Content-Type: application/json
+
+# {
+#     "Email":"m.b.alyanak@gmail.com",
+#     "Password":"55aca7c268db33bec0ca82b746e4d46783006a9a45a744ff061d667711569ac5"
+# }
