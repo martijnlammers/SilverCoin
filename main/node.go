@@ -19,10 +19,6 @@ func main() {
 		return
 	}
 
-	// fmt.Println("file exists")
-	// test := []byte("hello")
-	// fmt.Println(scm.Hash(test))
-
 	// Server and API section
 
 	app := fiber.New()
