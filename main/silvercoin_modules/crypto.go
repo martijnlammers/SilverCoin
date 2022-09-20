@@ -1,4 +1,4 @@
-package modules
+package silvercoin_modules
 
 import (
 	// https://codesigningstore.com/hash-algorithm-comparison
